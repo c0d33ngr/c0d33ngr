@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F73B1D&lines=Hi+%F0%9F%91%8B!+I'm+Jeffrey.)](https://git.io/typing-svg)
-<h3 align="center">An Open Source Software Engineer who loves contributing to opensource projects and solving problems.</h3>
+<h3 align="center">An Open Source Software Engineer who loves contributing to opensource projects and solving complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0d33ngr&label=Profile%20views&color=0e75b6&style=flat" alt="c0d33ngr" /> </p>
 
